@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
+    <title type="text">sakata的万事屋</title>
+    <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
+    <updated>2021-09-28T23:30:23&#43;08:00</updated>
+    <id>https://sakatarin.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
+    <author>
+            <name>sakata</name>
+            <uri>https://sakatarin.github.io/</uri>
+            
+                <email>asaka0114@163.com</email>
+            </author>
+    <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
+    <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">Reading</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/reading/" />
+            <id>https://sakatarin.github.io/post/reading/</id>
+            <updated>2021-09-28T22:28:09&#43;08:00</updated>
+            <published>2021-09-28T21:48:30&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">今天开始读人类群星闪耀之时，觉得1984也能读，但是太沉重了，不适合工作日去读。 第一……</summary>
+            
+                <content type="html">&lt;p&gt;今天开始读人类群星闪耀之时，觉得1984也能读，但是太沉重了，不适合工作日去读。&lt;/p&gt;
+&lt;p&gt;第一章就讲的是那个谁发现了太平洋，&lt;strong&gt;我的妈呀&lt;/strong&gt;，才觉得&lt;em&gt;厉害&lt;/em&gt;。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E8%AF%BB%E4%B9%A6/" term="读书" label="读书" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">My First Blog</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/my-first-blog/" />
+            <id>https://sakatarin.github.io/post/my-first-blog/</id>
+            <updated>2021-09-28T22:28:20&#43;08:00</updated>
+            <published>2021-09-27T21:12:44&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">好不容易搭好了 试一试hugo，先在本地上测试一下。</summary>
+            
+                <content type="html">&lt;h2 id=&#34;好不容易搭好了&#34;&gt;好不容易搭好了&lt;/h2&gt;
+&lt;p&gt;试一试hugo，先在本地上测试一下。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E7%94%9F%E6%B4%BB/" term="生活" label="生活" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E5%8D%9A%E5%AE%A2/" term="博客" label="博客" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+</feed>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>sakata的万事屋</title>
+        <link>https://sakatarin.github.io/</link>
+        <description>一个记录学习与成长的个人博客</description>
+        <generator>Hugo 0.88.1 https://gohugo.io/</generator>
+        
+            <language>zh-CN</language>
+        
+        
+            <managingEditor>asaka0114@163.com (sakata)</managingEditor>
+        
+        
+            <webMaster>asaka0114@163.com (sakata)</webMaster>
+        
+        
+            <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+        
+        <lastBuildDate>Tue, 28 Sep 2021 23:30:23 &#43;0800</lastBuildDate>
+        
+            <atom:link rel="self" type="application/rss&#43;xml" href="https://sakatarin.github.io/rss.xml" />
+        
+        
+            <item>
+                <title>Reading</title>
+                <link>https://sakatarin.github.io/post/reading/</link>
+                <guid isPermaLink="true">https://sakatarin.github.io/post/reading/</guid>
+                <pubDate>Tue, 28 Sep 2021 21:48:30 &#43;0800</pubDate>
+                
+                    <author>asaka0114@163.com (sakata)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;今天开始读人类群星闪耀之时，觉得1984也能读，但是太沉重了，不适合工作日去读。&lt;/p&gt;
+&lt;p&gt;第一章就讲的是那个谁发现了太平洋，&lt;strong&gt;我的妈呀&lt;/strong&gt;，才觉得&lt;em&gt;厉害&lt;/em&gt;。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/tags/%E8%AF%BB%E4%B9%A6/">读书</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>My First Blog</title>
+                <link>https://sakatarin.github.io/post/my-first-blog/</link>
+                <guid isPermaLink="true">https://sakatarin.github.io/post/my-first-blog/</guid>
+                <pubDate>Mon, 27 Sep 2021 21:12:44 &#43;0800</pubDate>
+                
+                    <author>asaka0114@163.com (sakata)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;h2 id=&#34;好不容易搭好了&#34;&gt;好不容易搭好了&lt;/h2&gt;
+&lt;p&gt;试一试hugo，先在本地上测试一下。&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/categories/%E7%94%9F%E6%B4%BB/">生活</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+    </channel>
+</rss>
