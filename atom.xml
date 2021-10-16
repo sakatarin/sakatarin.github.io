@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">sakata的万事屋</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2021-09-30T23:26:33&#43;08:00</updated>
+    <updated>2021-10-16T22:39:33&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -183,16 +183,16 @@ V把Evey带到天台，“God is in the rain”。Evey完成了转变，她不�
             <title type="text">My First Blog</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/my-first-blog/" />
             <id>https://sakatarin.github.io/post/my-first-blog/</id>
-            <updated>2021-09-30T22:50:41&#43;08:00</updated>
+            <updated>2021-10-16T22:36:29&#43;08:00</updated>
             <published>2021-09-27T21:12:44&#43;08:00</published>
             <author>
                     <name>sakata</name>
                     <uri>https://sakatarin.github.io/</uri>
                     <email>asaka0114@163.com</email>
                     </author>
-            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">试一试hugo，先在本地上测试一下</summary>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">试一试hugo，先在本地上测试一下。小白级别搭建博客教程加载中。。。</summary>
             
-                <content type="html">&lt;p&gt;试一试hugo，先在本地上测试一下&lt;/p&gt;
+                <content type="html">&lt;p&gt;试一试hugo，先在本地上测试一下。小白级别搭建博客教程加载中。。。&lt;/p&gt;
 </content>
             
             
