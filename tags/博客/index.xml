@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>博客 on sakata</title>
+        <link>https://sakatarin.github.io/tags/%E5%8D%9A%E5%AE%A2/</link>
+        <description>Recent content in 博客 on sakata</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>zh-cn</language>
+        <lastBuildDate>Mon, 27 Sep 2021 21:12:44 +0800</lastBuildDate><atom:link href="https://sakatarin.github.io/tags/%E5%8D%9A%E5%AE%A2/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>My First Blog</title>
+        <link>https://sakatarin.github.io/p/my-first-blog/</link>
+        <pubDate>Mon, 27 Sep 2021 21:12:44 +0800</pubDate>
+        
+        <guid>https://sakatarin.github.io/p/my-first-blog/</guid>
+        <description>&lt;p&gt;试一试hugo，先在本地上测试一下。小白级别搭建博客教程加载中。。。&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
