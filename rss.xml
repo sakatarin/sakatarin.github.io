@@ -7,7 +7,7 @@
 
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>sakata的万事屋</title>
+        <title>SAKATA RIN</title>
         <link>https://sakatarin.github.io/</link>
         <description>一个记录学习与成长的个人博客</description>
         <generator>Hugo 0.88.1 https://gohugo.io/</generator>
@@ -23,7 +23,7 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 02 Jan 2023 21:53:27 &#43;0800</lastBuildDate>
+        <lastBuildDate>Sat, 08 Apr 2023 19:04:14 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://sakatarin.github.io/rss.xml" />
         
