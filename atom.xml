@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2023-04-09T13:32:20&#43;08:00</updated>
+    <updated>2023-04-09T15:43:54&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -16,6 +16,72 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">我的葬礼歌单</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/%E6%88%91%E7%9A%84%E8%91%AC%E7%A4%BC%E6%AD%8C%E5%8D%95/" />
+            <id>https://sakatarin.github.io/post/%E6%88%91%E7%9A%84%E8%91%AC%E7%A4%BC%E6%AD%8C%E5%8D%95/</id>
+            <updated>2023-04-09T15:36:55&#43;08:00</updated>
+            <published>2023-04-09T14:55:11&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">创建葬礼歌单的起因 2023年1月，我们失去了高桥幸宏、Jeff Beck。 2月，我失去……</summary>
+            
+                <content type="html">&lt;h3 id=&#34;创建葬礼歌单的起因&#34;&gt;创建葬礼歌单的起因&lt;/h3&gt;
+&lt;p&gt;2023年1月，我们失去了高桥幸宏、Jeff Beck。&lt;/p&gt;
+&lt;p&gt;2月，我失去了我最亲爱的人。&lt;/p&gt;
+&lt;p&gt;3月，我们失去了坂本龙一。&lt;/p&gt;
+&lt;p&gt;我们生活在一个告别经典的时代。&lt;/p&gt;
+&lt;p&gt;2月之后，我说，给自己一个月时间，整理好自己的情绪，然后再慢慢诉说关于我最亲爱的人的事情，因为我怕有一天会忘记，而遗忘，才是真正的死亡。&lt;/p&gt;
+&lt;p&gt;恰恰3月（准确来说是4月初），在那个相似的晚上，甚至是相近的时间点，晚上8点30分左右，我最好的朋友，以和一个月前我的亲人相似的口吻，告诉我，教授去世了。&lt;/p&gt;
+&lt;p&gt;那天晚上，几个朋友都来告诉我这个消息，这也和一个月前一样，我和几个朋友告诉他们我的事情。&lt;/p&gt;
+&lt;p&gt;我想，再给自己一个月时间，等情绪好了，说说教授对我的影响。&lt;/p&gt;
+&lt;p&gt;可是，我觉得我等不下去，有些事情不能等，该做就做，不然在未来就会后悔：为什么当初不……&lt;/p&gt;
+&lt;p&gt;坂本龙一的讣告公布后不久，我在微博首页看到了教授给自己的&lt;strong&gt;葬礼歌单&lt;/strong&gt;。这让我想起很多年前，我也想过，给自己一份葬礼歌单。&lt;/p&gt;
+&lt;p&gt;这份歌单，是自我满足的一份歌单，它不会彰显我的音乐品味怎样，只是简单地回忆我走过的日子。&lt;/p&gt;
+&lt;center&gt;我的葬礼歌单（缓慢更新中）&lt;/center&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;世界真细小&lt;/p&gt;
+&lt;p&gt;大概这就是我对音乐的最早记忆。爸爸从香港带回来一个皮卡丘模样的闹钟，闹铃就是这首歌。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;iframe frameborder=&#34;no&#34; border=&#34;0&#34; marginwidth=&#34;0&#34; marginheight=&#34;0&#34; width=298 height=52 src=&#34;https://sakatarin.github.io//music.163.com/outchain/player?type=2&amp;id=388687&amp;auto=0&amp;height=32&#34;&gt;&lt;/iframe&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;TBC&lt;/li&gt;
+&lt;/ol&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E6%97%A5%E5%B8%B8/" term="日常" label="日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E6%AD%8C%E5%8D%95/" term="歌单" label="歌单" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">折腾两天博客主题又回到最初的起点</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/%E6%8A%98%E8%85%BE%E4%B8%A4%E5%A4%A9%E5%8D%9A%E5%AE%A2%E4%B8%BB%E9%A2%98%E5%8F%88%E5%9B%9E%E5%88%B0%E6%9C%80%E5%88%9D%E7%9A%84%E8%B5%B7%E7%82%B9/" />
