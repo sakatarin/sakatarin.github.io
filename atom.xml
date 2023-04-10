@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2023-04-09T15:47:47&#43;08:00</updated>
+    <updated>2023-04-10T20:49:00&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -16,6 +16,91 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">周报_Q2M4W3 清明、马力欧与博客</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/%E5%91%A8%E6%8A%A5_q2m4w3/" />
+            <id>https://sakatarin.github.io/post/%E5%91%A8%E6%8A%A5_q2m4w3/</id>
+            <updated>2023-04-10T20:48:50&#43;08:00</updated>
+            <published>2023-04-10T20:36:03&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以下是23-04-03到23-04-09的一周回顾。 为什么在博客上写周报？ 之前在少数……</summary>
+            
+                <content type="html">&lt;p&gt;以下是&lt;code&gt;23-04-03&lt;/code&gt;到&lt;code&gt;23-04-09&lt;/code&gt;的一周回顾。&lt;/p&gt;
+&lt;h3 id=&#34;为什么在博客上写周报&#34;&gt;为什么在博客上写周报？&lt;/h3&gt;
+&lt;p&gt;之前在少数派上摸鱼，偶然看到&lt;a href=&#34;https://www.pseudoyu.com/zh/&#34;&gt;Pseudoyu&lt;/a&gt;，他的博客首页就是持续更新的周报文章。&lt;/p&gt;
+&lt;p&gt;这很难得，因为之前我关注的一些博客，要么已经停更，要么已经挂掉，很少有坚持更新的。通过Pseudoyu的友链，我继续摸索那些还在更新的blogger，他们都有一个不算共同点的共同点：写周报。&lt;/p&gt;
+&lt;p&gt;这或许也是维持博客更新的一种方式，于是，我也想试试，看自己能坚持多久。&lt;/p&gt;
+&lt;h3 id=&#34;之前我有写周报的习惯吗&#34;&gt;之前我有写周报的习惯吗？&lt;/h3&gt;
+&lt;p&gt;在2023年之前是没有的，但是有写年度总结的习惯。恰好今年1月，手账本换成了muji的A6周计划，左边是横式周计划，右边是空格页。&lt;/p&gt;
+&lt;p&gt;左边我用来写当天完成的与周计划有关的事项，右边上半部分用来写周计划，那就还剩下右边下半部分，本着不浪费一点空间的原则，我用它来写每周感悟了。&lt;/p&gt;
+&lt;p&gt;所以，博客上的周报，对我来说，也算是每周感悟扩展版，而且想到什么说什么，没有受众的顾虑，没有烦人的审查机制，即使以后不会回头再看，但是通过文字输出自己想法和感受的过程，不仅可以找回对生活的确实感知，也能梳理情绪。&lt;/p&gt;
+&lt;p&gt;让每一点进步都看得见。&lt;/p&gt;
+&lt;p&gt;ps.博客上传内容所需的工具都在我的私人电脑里，而文章大多是趁着上班摸鱼时间完成，所以这篇周报，是在腾讯文档写的（吐槽一下，除了可以多平台同步以外，腾讯文档真是越用越难用，因为网络原因，也很少直接在notion上码字←被坑过）。&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;清明节&#34;&gt;清明节&lt;/h3&gt;
+&lt;p&gt;这周是难得的上四休三，体验了一把没有调休的假期是怎样的体验。朋友纷纷表示，周三放完假回来，周四那天坐到工位的第一反应：今天周一，周报、例会，该来的怎么没来？噢，原来今天已经周四，明天周五再撑一天就是周末了！&lt;/p&gt;
+&lt;p&gt;先是有疑似周一的恐惧感，然后是周五的解脱感，心理层面上获得一股从悲伤到喜悦的情绪流动能量，如过山车一般。&lt;/p&gt;
+&lt;p&gt;因为之前2月发生的事，我对死亡又有了更深切的体会。特别是在清明节这个日子，虽然我在极力回避这件事，但还是止不住地想念。&lt;/p&gt;
+&lt;p&gt;从小到大，死亡在他们口中都是一件很忌讳的事情，一谈起，他们就会像见了鬼一样，说：“大吉利是，细路仔唔识世界！”&lt;/p&gt;
+&lt;p&gt;而我的父母没有这样说过我。&lt;/p&gt;
+&lt;p&gt;但也没有人教过我如何面对至亲的离去，所以，我在脑海中模拟过类似的场景，但真正发生之后，没有一次模拟是准确猜对的。&lt;/p&gt;
+&lt;p&gt;我讨厌活在未知中。&lt;/p&gt;
+&lt;h3 id=&#34;超级马力欧兄弟大电影&#34;&gt;超级马力欧兄弟大电影&lt;/h3&gt;
+&lt;p&gt;周三，也就是清明节假期，中午去看了首映，也是第一次和弟弟看电影。&lt;/p&gt;
+&lt;p&gt;今年过年在家和家人一起通关了马力欧奥德赛，加上被弟弟安利，看了挺久超级小桀的视频，所以对马力欧系列的认识还算熟悉。&lt;/p&gt;
+&lt;p&gt;提前抢好了最佳观影位置，当天那一排坐满人，大家异口同声cue各种梗，也没有小屁孩大喊大叫，观影体验非常不错，就是按摩椅按的背酸痛酸痛的（社畜の痛）。&lt;/p&gt;
+&lt;p&gt;看了一下购票记录，上一次到电影院看电影居然是2019年。&lt;/p&gt;
+&lt;h3 id=&#34;博客&#34;&gt;博客&lt;/h3&gt;
+&lt;p&gt;周四之后，抽空把博客的事情给搞定了，说是搞定，其实是折腾了一番，结果回到最初的起点，暂时不想把太多精力放在博客技术上（如果有朋友可以提供帮助，非常欢迎！（但我又是喜欢自己一个人解决问题的人（好矛盾）））。&lt;/p&gt;
+&lt;p&gt;我还是挺喜欢meme这个主题的，这次把首页换成了文章展示，之前是一句话：My life is my message.&lt;/p&gt;
+&lt;p&gt;名字也由&lt;strong&gt;sakata的万事屋&lt;/strong&gt;换成了&lt;strong&gt;SAKATA RIN&lt;/strong&gt;，更加自我化了。sakata来自《银魂》里的坂田银时，rin是我的姓。&lt;/p&gt;
+&lt;h3 id=&#34;电吉他&#34;&gt;电吉他&lt;/h3&gt;
+&lt;p&gt;跟着乔伊节奏练了1个小时，滑奏好废手，将手指操加入每日必做项目中，为了年底能完整演奏一首曲子，加油！&lt;/p&gt;
+&lt;h3 id=&#34;肯定这周自己做得好的地方&#34;&gt;肯定这周自己做得好的地方&lt;/h3&gt;
+&lt;blockquote&gt;
+&lt;p&gt;以后会在周报里保留这一部分，用341肯定法肯定自己，写肯定贴，提升自信心。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;不怕麻烦，和弟弟一起去看电影，增进亲情链接，说明你是一个关心家人的人。&lt;/li&gt;
+&lt;li&gt;和妈妈通电话，多用了鼓励的话语，而不是责备、说教等的负面话语，说明你是一个懂得体贴别人，有意识控制自己表达的人。&lt;/li&gt;
+&lt;li&gt;主动联系房东来修热水器，主动打电话换桶装水，说明你是一个有独立生活能力，敢于沟通的人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&#34;./images/2023-04-10.jpg&#34; alt=&#34;本周精选一枚&#34;&gt;/&lt;/p&gt;
+&lt;p&gt;WeChat：元気だよｗ（10个不重复的小写英文字母）&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E5%91%A8%E6%8A%A5/" term="周报" label="周报" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">我的葬礼歌单</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/%E6%88%91%E7%9A%84%E8%91%AC%E7%A4%BC%E6%AD%8C%E5%8D%95/" />
@@ -147,7 +232,7 @@
             <title type="text">测试一下Markdown常用语法在meme主题上的效果</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/" />
             <id>https://sakatarin.github.io/post/markdown%E5%B8%B8%E7%94%A8%E8%AF%AD%E6%B3%95%E6%80%BB%E7%BB%93/</id>
-            <updated>2023-04-08T20:54:54&#43;08:00</updated>
+            <updated>2023-04-10T20:46:19&#43;08:00</updated>
             <published>2021-10-16T22:31:53&#43;08:00</published>
             <author>
                     <name>sakata</name>
