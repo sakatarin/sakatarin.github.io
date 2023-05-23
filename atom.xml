@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2023-05-17T22:52:26&#43;08:00</updated>
+    <updated>2023-05-23T20:07:41&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -16,6 +16,135 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">周报_Q2M5W4</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/%E5%91%A8%E6%8A%A5_q2m5w4/" />
+            <id>https://sakatarin.github.io/post/%E5%91%A8%E6%8A%A5_q2m5w4/</id>
+            <updated>2023-05-23T20:07:28&#43;08:00</updated>
+            <published>2023-05-23T20:04:40&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以下是23-05-15到23-05-21的一周回顾。 工作安排 王泪发售后一周的时间里，……</summary>
+            
+                <content type="html">&lt;p&gt;以下是&lt;code&gt;23-05-15&lt;/code&gt;到&lt;code&gt;23-05-21&lt;/code&gt;的一周回顾。&lt;/p&gt;
+&lt;h3 id=&#34;工作安排&#34;&gt;工作安排&lt;/h3&gt;
+&lt;p&gt;王泪发售后一周的时间里，工作也突然被临时加了很多任务。周三那天，还在公司待到了快10点，非常困，完全集中不了注意力。&lt;/p&gt;
+&lt;p&gt;结果也当然是没有什么输出，晚上的时间就应该用来休息和做自己喜欢的事情，还要上班的话，真的太累了，效率也不高。&lt;/p&gt;
+&lt;p&gt;庆幸的是，周四过后，算是可以放松几天，工作任务不多，回归正常水平了。&lt;/p&gt;
+&lt;p&gt;但是，自己有一个需要调整的毛病，就是过分注意群聊消息，把精力花费在对目标无益的事情上，也就是说过分关注无效社交，这是要改正的。&lt;/p&gt;
+&lt;h3 id=&#34;大扫除&#34;&gt;大扫除&lt;/h3&gt;
+&lt;p&gt;为了防止这个周末一直玩王泪，特地在周末开始前给自己简单写了个计划：&lt;/p&gt;
+&lt;p&gt;周末todo：拖地-收拾衣柜断舍离-洗被子-n2学习-周计划复盘-看一部电影-chatgptapp或者电脑录屏使用-王泪-洗厕所-擦门&lt;/p&gt;
+&lt;p&gt;然后周六完成了衣柜的断舍离和拖地清洁，感觉整个人又清爽了不少，虽然汗流浃背的，那天下午也很热。&lt;/p&gt;
+&lt;p&gt;很喜欢叠衣服和把东西安排得井然有序的样子，棉被也收了起来，换了一套洗好的床上用品，感觉心情开朗了不少。&lt;/p&gt;
+&lt;p&gt;但是，因为室友在这个星期二提了离职，所以能感觉到她的不安，虽然她表现出来还是很开心的样子，不过在那种公司委屈待着，不如尽早离开，对于一段感情来说，也是这样，该段则断。&lt;/p&gt;
+&lt;p&gt;对于我的影响，就是每次上班出门，下班回家，都能看到室友在家的样子，其他没有变化。&lt;/p&gt;
+&lt;p&gt;之前有考虑要不要和她合作，但是，感觉不太妥当，需要两个心智都相对成熟的人来讲，才会更好，并且我们的目标不一致。&lt;/p&gt;
+&lt;p&gt;该拒绝的时候，要勇敢拒绝，不能藕断丝连。&lt;/p&gt;
+&lt;h3 id=&#34;天热了&#34;&gt;天热了&lt;/h3&gt;
+&lt;p&gt;这周切实感受到夏天来了，骑自行车上班也感到了太阳的热情。空调也在有节制地开起来，毕竟现在住的地方，电费似乎有点贵。&lt;/p&gt;
+&lt;h3 id=&#34;这周的时间记录&#34;&gt;这周的时间记录&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Activity Type&lt;/th&gt;
+&lt;th&gt;Duration&lt;/th&gt;
+&lt;th&gt;Percent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;睡眠&lt;/td&gt;
+&lt;td&gt;40:27&lt;/td&gt;
+&lt;td&gt;24.08&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其它&lt;/td&gt;
+&lt;td&gt;19:55&lt;/td&gt;
+&lt;td&gt;11.86&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工作&lt;/td&gt;
+&lt;td&gt;16:49&lt;/td&gt;
+&lt;td&gt;10.01&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;健康&lt;/td&gt;
+&lt;td&gt;06:24&lt;/td&gt;
+&lt;td&gt;3.82&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;兴趣娱乐&lt;/td&gt;
+&lt;td&gt;02:59&lt;/td&gt;
+&lt;td&gt;1.78&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交通&lt;/td&gt;
+&lt;td&gt;02:53&lt;/td&gt;
+&lt;td&gt;1.72&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习&lt;/td&gt;
+&lt;td&gt;01:30&lt;/td&gt;
+&lt;td&gt;0.90&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;家庭&lt;/td&gt;
+&lt;td&gt;00:55&lt;/td&gt;
+&lt;td&gt;0.55&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;未记录的时间&lt;/td&gt;
+&lt;td&gt;76:04&lt;/td&gt;
+&lt;td&gt;45.29&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总共&lt;/td&gt;
+&lt;td&gt;167:59&lt;/td&gt;
+&lt;td&gt;100.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;肯定这周自己做得好的地方&#34;&gt;肯定这周自己做得好的地方&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;加班的时候除了有点困，没有不舒适的情绪，说明你能理性思考，面对工作的事情已经能做到坦然以待，不会再像之前那样气得跑到厕所里哭了，是一个进步。&lt;/li&gt;
+&lt;li&gt;把房间卫生搞好了，说明你是一个勤快、爱干净的人。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;ps.写这篇周报的时候是5月23日周二，《小狗钱钱》这本书已经看了将近一半，我在想，把周报肯定的部分单独拎出来，变成成功日记，然后随周报更新，这样肯定会好很多！&lt;/p&gt;
+&lt;p&gt;因为，一周的时间过去，我会忘记自己上周都做了什么成功的事情，如果不及时记下来，那就太taxi了！XD&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E5%91%A8%E6%8A%A5/" term="周报" label="周报" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">周报_Q2M5W3 王国之泪、加班与熬夜</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/%E5%91%A8%E6%8A%A5_q2m5w3/" />
