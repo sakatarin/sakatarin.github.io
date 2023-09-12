@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2023-09-05T23:24:28&#43;08:00</updated>
+    <updated>2023-09-12T22:18:07&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -16,6 +16,254 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">成功日记#16 230904-230910</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230912_success_diary_16/" />
+            <id>https://sakatarin.github.io/post/230912_success_diary_16/</id>
+            <updated>2023-09-12T22:15:15&#43;08:00</updated>
+            <published>2023-09-12T22:14:23&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">写下你觉得今天做成功的事情吧！至少要有5条： 9月4日（月） 1、八段锦+多邻国打卡。 2……</summary>
+            
+                <content type="html">&lt;p&gt;写下你觉得今天做成功的事情吧！至少要有5条：&lt;/p&gt;
+&lt;h3 id=&#34;9月4日月&#34;&gt;9月4日（月）&lt;/h3&gt;
+&lt;p&gt;1、八段锦+多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、用上班路上尝试即兴录音，并更改好播客的介绍。&lt;/p&gt;
+&lt;p&gt;3、十二点前睡觉。&lt;/p&gt;
+&lt;p&gt;4、点了想吃很久的炸鸡。&lt;/p&gt;
+&lt;p&gt;5、和家人愉快地聊天。&lt;/p&gt;
+&lt;p&gt;6、去超市买了水果。&lt;/p&gt;
+&lt;p&gt;7、能觉察自己情绪出现障碍，然后通过主动和朋友聊天进行缓解。&lt;/p&gt;
+&lt;h3 id=&#34;9月5日火&#34;&gt;9月5日（火）&lt;/h3&gt;
+&lt;p&gt;1、八段锦+多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、把之前的周报补好，并且顺利git push到博客上。&lt;/p&gt;
+&lt;p&gt;3、和室友聊了一会儿天。&lt;/p&gt;
+&lt;p&gt;4、尝试了新的晚餐选择，点了牛大吉的牛腩粉，非常好吃，虽然有点贵。&lt;/p&gt;
+&lt;p&gt;5、洗了头。&lt;/p&gt;
+&lt;p&gt;6、原神抽卡如计划抽到了钟离，接下来开始漫长的攒石头之旅，为了满命满精散，非常好的游戏心态。&lt;/p&gt;
+&lt;p&gt;7、高效专注完成了项目工作（选题脚本分配），思路清晰。&lt;/p&gt;
+&lt;h3 id=&#34;9月6日水&#34;&gt;9月6日（水）&lt;/h3&gt;
+&lt;p&gt;1、八段锦+多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、看了《禅与摩托车维修艺术》并且打卡。&lt;/p&gt;
+&lt;p&gt;3、终于11点半前睡觉，并且和朋友道晚安。&lt;/p&gt;
+&lt;p&gt;4、和亲友联机了原神，成功拍了一些照片。&lt;/p&gt;
+&lt;p&gt;5、9点左右就洗完了澡，然后放松自己进行阅读和玩游戏。&lt;/p&gt;
+&lt;p&gt;6、和家人愉快地聊天。&lt;/p&gt;
+&lt;p&gt;7、吃了一根香蕉。&lt;/p&gt;
+&lt;h3 id=&#34;9月7日木&#34;&gt;9月7日（木）&lt;/h3&gt;
+&lt;p&gt;1、八段锦+多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、看了《禅与摩托车维修艺术》并且打卡。&lt;/p&gt;
+&lt;p&gt;3、在11点半前睡觉，并且和朋友道晚安。&lt;/p&gt;
+&lt;p&gt;4、工作上帮同事们解决了两个具体的问题。&lt;/p&gt;
+&lt;p&gt;5、9点半左右就洗完了澡，放松自己进行阅读和玩游戏。&lt;/p&gt;
+&lt;p&gt;6、和家人愉快地聊天。&lt;/p&gt;
+&lt;p&gt;7、晚饭吃了两只好吃的鸡腿。&lt;/p&gt;
+&lt;h3 id=&#34;9月8日金&#34;&gt;9月8日（金）&lt;/h3&gt;
+&lt;p&gt;1、八段锦+多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、看了《禅与摩托车维修艺术》并且打卡。&lt;/p&gt;
+&lt;p&gt;3、在11点半前睡觉，并且和朋友道晚安。&lt;/p&gt;
+&lt;p&gt;4、早上看到蟑螂，冷静地解决，晚上回家处理好现场。&lt;/p&gt;
+&lt;p&gt;5、看了《无法相恋的两人》&lt;/p&gt;
+&lt;p&gt;6、和家人愉快地聊天。&lt;/p&gt;
+&lt;p&gt;7、晚饭吃了牛肉饭。&lt;/p&gt;
+&lt;h3 id=&#34;9月9日土&#34;&gt;9月9日（土）&lt;/h3&gt;
+&lt;p&gt;1、多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、看了《禅与摩托车维修艺术》并且打卡。&lt;/p&gt;
+&lt;p&gt;3、在11点半前睡觉，并且和朋友道晚安。&lt;/p&gt;
+&lt;p&gt;4、和室友一起点了好吃的披萨。&lt;/p&gt;
+&lt;p&gt;5、看完了《无法相恋的两人》&lt;/p&gt;
+&lt;p&gt;6、不沉迷原神。&lt;/p&gt;
+&lt;p&gt;7、补充好了手账的月计划和周计划。&lt;/p&gt;
+&lt;p&gt;8、在b站找到了一个合适的高数讲解视频，并且看了3节。&lt;/p&gt;
+&lt;p&gt;9、早上准时起床，吃了早餐。&lt;/p&gt;
+&lt;p&gt;10、睡了午觉。&lt;/p&gt;
+&lt;h3 id=&#34;9月10日日&#34;&gt;9月10日（日）&lt;/h3&gt;
+&lt;p&gt;1、多邻国打卡。&lt;/p&gt;
+&lt;p&gt;2、看了《禅与摩托车维修艺术》并且打卡。&lt;/p&gt;
+&lt;p&gt;3、在12点前睡觉，并且和朋友道晚安。&lt;/p&gt;
+&lt;p&gt;4、看了《万神殿》&lt;/p&gt;
+&lt;p&gt;5、打扫了房间卫生。&lt;/p&gt;
+&lt;p&gt;6、跟着攻略收集了培养角色所需要的材料。&lt;/p&gt;
+&lt;p&gt;7、看了一节高数视频。&lt;/p&gt;
+&lt;p&gt;8、睡前看了《量子力学》&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E6%88%90%E5%8A%9F%E6%97%A5%E8%AE%B0/" term="成功日记" label="成功日记" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E8%AE%B0%E5%BD%95/" term="记录" label="记录" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">周报_Q3M9W2 睡眠、学习计划与无性恋</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230912_weekly_q3m9w2/" />
+            <id>https://sakatarin.github.io/post/230912_weekly_q3m9w2/</id>
+            <updated>2023-09-12T22:16:36&#43;08:00</updated>
+            <published>2023-09-12T22:14:00&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以下是23-09-04到23-09-10的一周回顾。 睡眠 九月第二周的周报，还是在第三……</summary>
+            
+                <content type="html">&lt;p&gt;以下是&lt;code&gt;23-09-04&lt;/code&gt;到&lt;code&gt;23-09-10&lt;/code&gt;的一周回顾。&lt;/p&gt;
+&lt;h3 id=&#34;睡眠&#34;&gt;睡眠&lt;/h3&gt;
+&lt;p&gt;九月第二周的周报，还是在第三周的周二写了，本来周一就想写，但是周一厌工情绪达到巅峰，摸鱼摸过了头，总而言之，就是那个新项目的进度没有如期进行，导致后续环节循环不了。&lt;/p&gt;
+&lt;p&gt;出门前在家打了一套八段锦，上午上班的时候，戴耳听大悲咒，只有这样才慢慢把情绪调理过来。&lt;/p&gt;
+&lt;p&gt;说说这周的睡眠情况，比上一周有了量的突破！&lt;/p&gt;
+&lt;p&gt;主要是这周一的时候，身体出现明显的信号——头晕、发热、喉咙不适，在这之前的一段时间，熬夜太猛，经常都是12点快1点多才睡，而且睡觉前一般是在玩原神（玩原神玩的）。&lt;/p&gt;
+&lt;p&gt;回去简单吃了一包999感冒灵之后，顺其自然开启了早睡计划，没有声势浩大的宣讲仪式，在各种社交平台大声宣布：我从今天开始要早睡！也没有跟亲友们四指向天举手发誓：今晚一定要11点前睡觉。&lt;/p&gt;
+&lt;p&gt;是很自然而然地，到点就睡了，把下班之后看电影的环节取消，改成看一集不超过一小时的电视剧/动画，9~10点找个时间就洗漱完毕，滚到床上，看十几二十分钟的书，打完卡，再玩差不多半小时的原神。&lt;/p&gt;
+&lt;p&gt;11点15分左右，就躺下了，也不用纠结听什么入睡，直接去b站搜20分钟冥想引导（范李猿那个视频），戴好耳机就平静地入睡。&lt;/p&gt;
+&lt;p&gt;周末依旧如此。&lt;/p&gt;
+&lt;p&gt;同时，我把早上6点半以前的闹钟全部关闭，这样保证我不会因为6点的闹钟而醒，延长晚间的睡眠，而不是保证回笼觉的时长。&lt;/p&gt;
+&lt;p&gt;睡眠是人生大事，一周有几乎30%的时间都在床上，有一个好的睡眠，才能有一个清醒的头脑，情绪、工作效率才会像每天都在更新升级一样，越来越好。&lt;/p&gt;
+&lt;p&gt;下一周也要继续坚持。&lt;/p&gt;
+&lt;h3 id=&#34;学习计划&#34;&gt;学习计划&lt;/h3&gt;
+&lt;p&gt;不知不觉，离2023年结束还剩1个季度、3个月、100多天。今年真是异常艰难的一年，对我的情绪、经济、身体、工作各方面都是极具挑战的一年。&lt;/p&gt;
+&lt;p&gt;就像我在工作上接触最多的一句话所描述的那样：有挑战，就是资源，把问题看成资源，你会收获不少成长。&lt;/p&gt;
+&lt;p&gt;确实，年初之后，能明显感受到自己在思维、直觉方面比以前有了很大的成长。&lt;/p&gt;
+&lt;p&gt;思考问题的角度变多了，人也变得越来越平和，可能自信心还是有点不足，但是就能看清楚很多事情了，虽然大部分时候还是沉默，不想去表达。&lt;/p&gt;
+&lt;p&gt;目前遇到的卡点，依旧是无法专攻一个点，在人生规划上，学习，学什么？把去国外生活当作目标，我还缺什么？怎样才能补齐？&lt;/p&gt;
+&lt;p&gt;其实，解决方法也很简单，写到这里，我自己想到了，就是回头看看自己之前写下来的目标，去做目前最想做的事情，对目标最有益的事情就行。&lt;/p&gt;
+&lt;p&gt;思考的已经够多，是时候行动了。&lt;/p&gt;
+&lt;p&gt;回顾了一下自己的目标，为了达成目标，我需要往两个方向出力：一是英语和表达，二是数学和人工智能。&lt;/p&gt;
+&lt;p&gt;所以，不要再看什么《量子力学》了，这只不过是娱乐自己大脑的闲书，与目标没有一点关系，优先级肯定是放在后面的。&lt;/p&gt;
+&lt;p&gt;那么，电吉他呢？嗯……作为学习之余的放松时刻，还是可以多练练。&lt;/p&gt;
+&lt;p&gt;玩游戏的时间可以规定缩小一下，只要米哈游暂时不倒闭，我还是可以不卸载原神，把阿散抽到满命的，一年不行就两年，论长情，5年前我开始玩的fgo还没卸载，阿喀琉斯还在。&lt;/p&gt;
+&lt;p&gt;其实也并不用太强制性的学习计划，因为如果我不完成，反而会给自己压力，只需要在平日摸鱼时间，下班时间，周末假期时间，不知道干什么的时候，拿起就行。&lt;/p&gt;
+&lt;p&gt;啊……还有和朋友的连接，人际关系有点棘手，但也不必着急，做好自己，聚焦自己，好运自然来！&lt;/p&gt;
+&lt;p&gt;具体的学习计划暂时不会写在周报里，不过通过写周报，理清了自己的思路，知道2023年接下来要努力的方向，是一件很好的事情。&lt;/p&gt;
+&lt;p&gt;因为人活在世，很容易走着走着就忘记为什么而出发，自己要到那里去，如果不时时回忆起自己的起点和终点，那么在旷野是很容易迷路的，人生虽然是旷野，但我们只有一双脚，当你选择这处风景时，难免会要暂时放下那处的风景。&lt;/p&gt;
+&lt;p&gt;但是，风景依旧在哪里，在一条道路上前进的时候，肯定也能看到那处风景的不一样的美。&lt;/p&gt;
+&lt;h3 id=&#34;无性恋&#34;&gt;无性恋&lt;/h3&gt;
+&lt;p&gt;这周看了高桥一生主演的日剧《无法相爱的两人》，才知道，原来还有“无性恋”（asexual）、“无浪漫倾向”（aromantic）这个概念，虽然之前只知道“纸性恋”、“智性恋”之类的词，但是看了这部日剧，去了解无性恋相关的知识，才发现原来它们都是属于“无性恋”光谱中的一个分支！？（maybe）&lt;/p&gt;
+&lt;p&gt;似乎找到了自己所属？无性恋-有浪漫倾向-泛性恋……突然，我感觉就像是在人生路途中，自己手中有一块木头，在生活中不断打磨出一个形状，然后有一天发现，这个形状和另一个木头完全契合。&lt;/p&gt;
+&lt;p&gt;自己手中的木头嵌入新发现的木头之后，它们将作为一个整体，然后继续在生活中不断打磨，遇到下一个相契的木头。&lt;/p&gt;
+&lt;h3 id=&#34;这周的时间记录&#34;&gt;这周的时间记录&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Activity Type&lt;/th&gt;
+&lt;th&gt;Duration&lt;/th&gt;
+&lt;th&gt;Percent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;睡眠&lt;/td&gt;
+&lt;td&gt;48:53&lt;/td&gt;
+&lt;td&gt;29.10&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其它&lt;/td&gt;
+&lt;td&gt;35:24&lt;/td&gt;
+&lt;td&gt;21.08&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工作&lt;/td&gt;
+&lt;td&gt;14:06&lt;/td&gt;
+&lt;td&gt;8.40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;兴趣娱乐&lt;/td&gt;
+&lt;td&gt;06:31&lt;/td&gt;
+&lt;td&gt;3.88&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习&lt;/td&gt;
+&lt;td&gt;05:45&lt;/td&gt;
+&lt;td&gt;3.42&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;家庭&lt;/td&gt;
+&lt;td&gt;03:47&lt;/td&gt;
+&lt;td&gt;2.26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交通&lt;/td&gt;
+&lt;td&gt;02:29&lt;/td&gt;
+&lt;td&gt;1.48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;健康&lt;/td&gt;
+&lt;td&gt;02:19&lt;/td&gt;
+&lt;td&gt;1.38&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;未记录的时间&lt;/td&gt;
+&lt;td&gt;48:42&lt;/td&gt;
+&lt;td&gt;29.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总共&lt;/td&gt;
+&lt;td&gt;167:59&lt;/td&gt;
+&lt;td&gt;100.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;喜报！睡眠时间比上周增加了4个小时！争取下周开始冲5！&lt;/p&gt;
+&lt;p&gt;其他时间减少了7小时，其实主要是原神的游玩时间下降了，现在大部分都是上线快速做完任务刷好材料就下线，周末或者有空的时候再和亲友联机，以及做一些世界任务。&lt;/p&gt;
+&lt;p&gt;兴趣娱乐减少了5个小时，就是晚上下班回家观影环节换成了看电视剧，电影时长动辄一个半小时以上，在工作日晚上本来时间就比较少的情况下不是很适配，所以换成了看电视剧，可以把想看的日剧、美剧补起来了！周末再看电影吧！&lt;/p&gt;
+&lt;p&gt;学习时间增加了1小时，虽然不多，也是值得点赞的！&lt;/p&gt;
+&lt;p&gt;剩下的项目时长占比基本稳定，下周继续努力。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E5%91%A8%E6%8A%A5/" term="周报" label="周报" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">周报_Q3M9W1 奥本海默、台风与情绪</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230905_weekly_q3m9w1/" />
@@ -1312,10 +1560,10 @@
         </entry>
     
         <entry>
-            <title type="text">成功日记#10 230724-2300730</title>
+            <title type="text">成功日记#10 230724-230730</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230731_success_diary_10/" />
             <id>https://sakatarin.github.io/post/230731_success_diary_10/</id>
-            <updated>2023-07-31T22:08:57&#43;08:00</updated>
+            <updated>2023-09-12T22:17:18&#43;08:00</updated>
             <published>2023-07-31T22:07:43&#43;08:00</published>
             <author>
                     <name>sakata</name>
@@ -1579,10 +1827,10 @@
         </entry>
     
         <entry>
-            <title type="text">成功日记#9 230717-2300723</title>
+            <title type="text">成功日记#9 230717-230723</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230730_success_diary_9/" />
             <id>https://sakatarin.github.io/post/230730_success_diary_9/</id>
-            <updated>2023-07-30T18:41:42&#43;08:00</updated>
+            <updated>2023-09-12T22:17:27&#43;08:00</updated>
             <published>2023-07-30T18:39:50&#43;08:00</published>
             <author>
                     <name>sakata</name>
@@ -1826,10 +2074,10 @@
         </entry>
     
         <entry>
-            <title type="text">成功日记#8 230710-2300716</title>
+            <title type="text">成功日记#8 230710-230716</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230718_success_diary_8/" />
             <id>https://sakatarin.github.io/post/230718_success_diary_8/</id>
-            <updated>2023-07-31T22:09:23&#43;08:00</updated>
+            <updated>2023-09-12T22:17:34&#43;08:00</updated>
             <published>2023-07-18T22:35:17&#43;08:00</published>
             <author>
                     <name>sakata</name>
@@ -2308,10 +2556,10 @@
         </entry>
     
         <entry>
-            <title type="text">成功日记#7 230703-2300709</title>
+            <title type="text">成功日记#7 230703-230709</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230709_success_diary_7/" />
             <id>https://sakatarin.github.io/post/230709_success_diary_7/</id>
-            <updated>2023-07-09T23:01:55&#43;08:00</updated>
+            <updated>2023-09-12T22:17:41&#43;08:00</updated>
             <published>2023-07-09T22:48:40&#43;08:00</published>
             <author>
                     <name>sakata</name>
@@ -2400,10 +2648,10 @@
         </entry>
     
         <entry>
-            <title type="text">成功日记#6 230626-2300702</title>
+            <title type="text">成功日记#6 230626-230702</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/230709_success_diary_6/" />
             <id>https://sakatarin.github.io/post/230709_success_diary_6/</id>
-            <updated>2023-07-09T22:50:45&#43;08:00</updated>
+            <updated>2023-09-12T22:17:46&#43;08:00</updated>
             <published>2023-07-09T22:48:34&#43;08:00</published>
             <author>
                     <name>sakata</name>
