@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2024-02-10T16:10:02&#43;08:00</updated>
+    <updated>2024-02-18T22:19:58&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -16,6 +16,452 @@
             </author>
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
+        <entry>
+            <title type="text">读书笔记-牛津通识读本：缤纷的语言学（中文版）</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240218_reading_note_linguistics/" />
+            <id>https://sakatarin.github.io/post/240218_reading_note_linguistics/</id>
+            <updated>2024-02-18T22:19:45&#43;08:00</updated>
+            <published>2024-02-18T22:16:30&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">P.H.马修斯 15个笔记 第二章 第一章 语言研究 ●什么是语言学？词典将其定义为有关语言的……</summary>
+            
+                <content type="html">&lt;p&gt;P.H.马修斯
+15个笔记&lt;/p&gt;
+&lt;h3 id=&#34;第二章-第一章-语言研究&#34;&gt;第二章 第一章 语言研究&lt;/h3&gt;
+&lt;p&gt;●什么是语言学？词典将其定义为有关语言的学术性研究，或简称为有关语言的“科学”。&lt;/p&gt;
+&lt;p&gt;●从上述观点出发，我们对于词汇意义等值的缺失就不会感到惊讶了。比如，法语学习者都知道，法语中没有一个与英语中的river相对应的单词。有时可以用fleuve，但多数情况下用rivière。即便用rivière，也无法准确表达英语中river和stream之间的细微差别。英、法两国世代为邻，它们的语言存在许多共同点。在这个例子中，我们可以从对应点谈起。但有时明显的相似点却会误导我们。&lt;/p&gt;
+&lt;p&gt;●“意义”并非与生俱来或任意存在，它们与文化密切相关，而语言只不过是文化中的一个方面而已。&lt;/p&gt;
+&lt;p&gt;●由此我们得出结论：语言之间存在明显差异。我们应在自身文化和语言的情景中，学会客观地审视语言。在古希腊历史以及《圣经》里，有一种根深蒂固的理念：单词就是名称。&lt;/p&gt;
+&lt;h3 id=&#34;第三章-第二章-语言人&#34;&gt;第三章 第二章 “语言人”&lt;/h3&gt;
+&lt;p&gt;●有一种理论认为，语言源自相关种族之间社会行为的“整饰”（图2）。由于许多灵长类动物的社会团体规模较小，“整饰”便成为一种形成和维持社会关系的有效途径。相反，人类社会规模较大，在其不断壮大的过程中，相互关系的维系主要是通过复杂的言语行为方式。“语言”成为维系社会的有效手段。&lt;/p&gt;
+&lt;h3 id=&#34;第四章-第三章-穿越时空的语言&#34;&gt;第四章 第三章 穿越时空的语言&lt;/h3&gt;
+&lt;p&gt;●然而，早些时候并没有此音，这一点可以从单词拼写中推断出来。shiva（[&#39;ʃi：və]） 和America（ [ə&#39;mɛrIkə]）中均包含一个所谓的“连接r音”，当后接以元音字母开头的单词时，America is应发作[ə&#39;mɛrIkər&#39;Iz]，而不是[ə&#39;mɛrIkə&#39;Iz]。此时，它们与原先以“r”结尾的词shiver或butter无甚区别，如[&#39;bʌtər&#39;Iz]（butter is）。在此种语音中，后面不接元音时，这两个单词同样没有[r]，发作[&#39;ʃIvə]和[&#39;bʌtə]。&lt;/p&gt;
+&lt;p&gt;●不管事实如何，有一点很明显：在人类的发展过程中，不同人群只能与他们相邻区域的人群保持联系。假设原始语言中包含可以改变的特征，那就意味着语言并非是先天决定的。由于人们在各自所属的区域内独立生活，其说话方式发生着不同的变化（间隔越远，变化越大），因此，没有任何直接接触的不同人群所用的不同语言，发展到一定程度将会出现天壤之别。&lt;/p&gt;
+&lt;h3 id=&#34;第五章-第四章-语族&#34;&gt;第五章 第四章 语族&lt;/h3&gt;
+&lt;p&gt;●一种语言的a形式酷似另一种语言的b形式，而它的c形式又类似第三种语言的d形式。所有这一切都不足以为重建一张完整、连贯而详尽的语族图提供足够的证据。对于任何语言对比之间呈现出的相似点，我们都不得不保留自己的解释：它们之所以相似，可能是偶然因素为之，也可能反映出操不同语言的人群在史前的某段时期有过接触，或者两种可能兼而有之。&lt;/p&gt;
+&lt;h3 id=&#34;第六章-第五章-语言的多样性&#34;&gt;第六章 第五章 语言的多样性&lt;/h3&gt;
+&lt;p&gt;●在南美洲的巴西和哥伦比亚交界处，有一个讲吐优卡语的民族。该语言区分五种“据素”（见下页的方框）：说话者必须在做出判断前，搞清楚他是亲眼所见，还是耳有所闻，等等。若为亲眼所见，则用第一种据素形式，即“亲眼所见的”；若仅仅是听说某件事，则用第四种形式，即“间接的”。说话者也许会撒谎，但任何一句话都需有“据素”，因而没有一个完全对应于She has broken her right arm的句子。&lt;/p&gt;
+&lt;h3 id=&#34;第七章-第六章-语言是什么&#34;&gt;第七章 第六章 语言是什么&lt;/h3&gt;
+&lt;p&gt;●语言学家常常被问及这样一个问题：世界上到底有多少种语言？答案是五千到六千种左右，肯定不超过一万种。然而，任何一个答案都不可完全相信，因为在某个地区被视为不同的“语言”的很可能在另一地区却被看作是同一语言的不同“方言”而已。&lt;/p&gt;
+&lt;p&gt;●假设有人说Can Mary help，当被询问为何这么讲，他不一定会解释说在问句中can要提前，或者将Mary放在help之后就是打破规律。人们只是理所当然地认为这个句子就该这么讲。然而，每一条隐含的规律都表达了真正的“规则性”。&lt;/p&gt;
+&lt;h3 id=&#34;第八章-第七章-语言的系统性&#34;&gt;第八章 第七章 语言的系统性&lt;/h3&gt;
+&lt;p&gt;●试比较下列两句话：They controlled themselves和They behaved themselves。第一句中的themselves与them相对，因而很容易被重读：They controlled themsélves（而不是别人），而另一句中的“to behave oneself”则是一个独立的复合结构。包含-self的词是该结构的重要组成部分，相反，句子They behaved them则没有任何意义。&lt;/p&gt;
+&lt;h3 id=&#34;第九章-第八章-声音&#34;&gt;第九章 第八章 声音&lt;/h3&gt;
+&lt;p&gt;●舌头是一个更加复杂的器官，它和下颌的位置共同影响着从喉头到牙齿的整个共鸣器的形状和音量。这些元音的归类方式可做进一步的抽象概括，很明显，它们都是成对出现的，像i和ü以及ι和u。属格词尾以及其他词尾的变化便是强有力的佐证，如e相对于ö，a相对于o。而ö和o之间最明显的区别在于：发ö时，舌头靠近嘴前部，而发o时，舌头则靠近后部。下列对子之间存在同样的差异：i和ι，ü和u，以及e和a（不同于英语中的元音）。&lt;/p&gt;
+&lt;h3 id=&#34;第一十章-第九章-语言与大脑&#34;&gt;第一十章 第九章 语言与大脑&lt;/h3&gt;
+&lt;p&gt;●有两种典型的语言障碍分别由此而被称为“布罗卡失语症”和“韦尼克失语症”。“布罗卡失语症”的患者语言缺乏流利性和“语法”，“韦尼克失语症”的患者语言流利但缺乏“内容”。不同症状暗示着大脑受损区域的不同。有些研究人员由此做出进一步推断：语言处理的某些方面，如“言语计划”（“布罗卡区”）、句子结构控制（还是“布罗卡区”）或“言语理解”（“韦尼克区”）主要由这两区负责。&lt;/p&gt;
+&lt;p&gt;●事实上，我们并不知道大脑中发生的一切如何与某次经验（如理解一句话）发生联系。几乎在多数语言学家和心理学家展开讨论之前，“理解”就已经成为一种来自经验的抽象。“句子”更明显也是一种抽象，虽然它的有效性只充分表现在语言学家的研究层面。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E6%97%A5%E5%B8%B8/" term="日常" label="日常" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E9%98%85%E8%AF%BB/" term="阅读" label="阅读" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">周报24_Q1M2W1 大扫除、尘歌壶与过年</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240218_weekly_q1m2w1/" />
+            <id>https://sakatarin.github.io/post/240218_weekly_q1m2w1/</id>
+            <updated>2024-02-18T22:13:35&#43;08:00</updated>
+            <published>2024-02-18T22:11:00&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以下是24-2-5到24-2-11的一周回顾。 （这篇周报也是2月18日放完春节假，返……</summary>
+            
+                <content type="html">&lt;p&gt;以下是&lt;code&gt;24-2-5&lt;/code&gt;到&lt;code&gt;24-2-11&lt;/code&gt;的一周回顾。&lt;/p&gt;
+&lt;p&gt;（这篇周报也是2月18日放完春节假，返深上班第一天写的。咬咬牙，连续写的第二篇周报！）&lt;/p&gt;
+&lt;h3 id=&#34;大扫除&#34;&gt;大扫除&lt;/h3&gt;
+&lt;p&gt;回家第一天，我就把房间的衣柜收拾好了，重新又叠了一遍，找到一些可以穿的衣服，还有丢掉一些穿不了的衣服。&lt;/p&gt;
+&lt;p&gt;接下来几天，我都在协助妈妈完成家里的大扫除，因为家里准备要重新装修了，所以东西啥的都要整理好，放好。&lt;/p&gt;
+&lt;p&gt;我擦干净一个闲置的收纳箱，把我认为很重要的笔记本、日记本和周边、纪念物都放进去了，房间桌面和抽屉就清空一部分，剩下一些可要可不要的本子和零碎物品，就放到桌子抽屉和柜子里。&lt;/p&gt;
+&lt;p&gt;CD收纳盒也擦干净放到衣柜里面，避免落灰。&lt;/p&gt;
+&lt;p&gt;收拾以前的物品，也是重走一遍过去。&lt;/p&gt;
+&lt;p&gt;自己的房间收拾好了之后，就是帮妈妈各种撕对联、拖地、断舍离，有两个印象比较深刻的。&lt;/p&gt;
+&lt;p&gt;一是客厅墙上挂了三十多年的大镜子，在妈妈的机智处理下，靠我们三个人成功取下，并且砸碎丢掉了。&lt;/p&gt;
+&lt;p&gt;二是三楼的木衣柜的一半，也在妈妈的机智处理下，我们三个人配合抬到二楼杂物间放东西。&lt;/p&gt;
+&lt;p&gt;又想起妈妈跟我说的，爸爸对她说的一句话——“如果你读到书，你会非常了不起的。”&lt;/p&gt;
+&lt;p&gt;妈妈真是生活中的博士家。&lt;/p&gt;
+&lt;h3 id=&#34;尘歌壶&#34;&gt;尘歌壶&lt;/h3&gt;
+&lt;p&gt;本来想着删掉便签里的尘歌壶摹本材料记录，但又觉得可惜，后来决定发到米游社里，为了让帖子好看点，又到建好的区域里拍照、修图，也有一点浏览量。&lt;/p&gt;
+&lt;p&gt;建壶建上瘾的后果是，看到矿石都走不动路，砍树的小道具焊死在快捷栏。&lt;/p&gt;
+&lt;p&gt;平均半个月就能建好一个区域了，这不比深渊好玩？！&lt;/p&gt;
+&lt;p&gt;目前我还只是拿别人的摹本来复制，等家具多了些之后，或许可以抽空自己造一些小景观。&lt;/p&gt;
+&lt;h3 id=&#34;过年&#34;&gt;过年&lt;/h3&gt;
+&lt;p&gt;今年过年，我们家那条路的大多数人家都是年二十九就贴好对联了，我们家依旧是特立独行，大年三十早上快到中午才下来贴，今年是我和弟弟协助妈妈贴的对联。&lt;/p&gt;
+&lt;p&gt;对联、门神是我提前在网上买的，特别漂亮，也很容易贴。&lt;/p&gt;
+&lt;p&gt;大年三十开始，家里的香火味就开始萦绕不去了，我在楼上一有空就烧香。&lt;/p&gt;
+&lt;p&gt;年二十九那晚妈妈也请了人过来“合炉”，我们仨那个半夜都没怎么睡。&lt;/p&gt;
+&lt;p&gt;周日是年初二，今年姑母们过来聊了一会儿，后来年初三一个多年不见的表弟也过来寒暄一会儿了。&lt;/p&gt;
+&lt;p&gt;春节假期没出去逛过街，也没有约什么人，是非常自由自在的一个假期，除了被妈妈喊去帮忙大扫除，一直忙到年三十。&lt;/p&gt;
+&lt;p&gt;我能明显感觉到妈妈今年过年心理负担没有那么重了，也许是有了工作，也许是走出阴影，她能向前看了，这是很好的。&lt;/p&gt;
+&lt;p&gt;爸爸也放心了。&lt;/p&gt;
+&lt;h3 id=&#34;这周的时间记录ok&#34;&gt;这周的时间记录ok&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Activity Type&lt;/th&gt;
+&lt;th&gt;Duration&lt;/th&gt;
+&lt;th&gt;Percent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;睡眠&lt;/td&gt;
+&lt;td&gt;48:34&lt;/td&gt;
+&lt;td&gt;28.91&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其它&lt;/td&gt;
+&lt;td&gt;40:10&lt;/td&gt;
+&lt;td&gt;23.91&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习&lt;/td&gt;
+&lt;td&gt;02:28&lt;/td&gt;
+&lt;td&gt;1.47&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工作&lt;/td&gt;
+&lt;td&gt;00:26&lt;/td&gt;
+&lt;td&gt;0.26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;健康&lt;/td&gt;
+&lt;td&gt;00:25&lt;/td&gt;
+&lt;td&gt;0.26&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;未记录的时间&lt;/td&gt;
+&lt;td&gt;75:55&lt;/td&gt;
+&lt;td&gt;45.19&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总共&lt;/td&gt;
+&lt;td&gt;167:59&lt;/td&gt;
+&lt;td&gt;100.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;哈哈，第一次看到复制过来的表格那么短，未记录时间也增加了32个小时，在家的日子就是悠哉游哉。&lt;/p&gt;
+&lt;p&gt;因为很多事情都是断断续续地做，而且手机一般也不随手带，所以记录的习惯就减少了，不过，在这些时间里，都是和家人在一起的。&lt;/p&gt;
+&lt;p&gt;所以，并不是没有记录的时间就没有意义了，在家的每一分每一秒都是有意义的。&lt;/p&gt;
+&lt;p&gt;睡眠的时间居然没怎么变化，还是48小时左右，和上周仅仅相差了7分钟，作息上看还是延续了在深圳时候的习惯。&lt;/p&gt;
+&lt;p&gt;其它时间增加了7小时，不上班了，玩游戏的时间也就多了。&lt;/p&gt;
+&lt;p&gt;就连学习时间也只比上周少了1分钟，真的多读一会儿书都不行，拿捏的刚刚好，多邻国+阅读打卡的习惯还是保持住了。&lt;/p&gt;
+&lt;p&gt;即使在假期，也小小工作了半个小时，因为有些内容假期前实在没心情整，最后还是假期期间拿出一点时间搞定了。&lt;/p&gt;
+&lt;p&gt;健康减少了1小时，只达到零头，回家之后彻底放飞，每天躺到10点多，也没有练八段锦了。&lt;/p&gt;
+&lt;h3 id=&#34;这周看到的好玩意&#34;&gt;这周看到的好玩意&lt;/h3&gt;
+&lt;p&gt;不记得了&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E5%91%A8%E6%8A%A5/" term="周报" label="周报" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">成功日记#38 240205-240211</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240218_success_diary_38/" />
+            <id>https://sakatarin.github.io/post/240218_success_diary_38/</id>
+            <updated>2024-02-18T22:11:56&#43;08:00</updated>
+            <published>2024-02-18T22:10:37&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">写下你觉得今天做成功的事情吧！至少要有5条： 2月5日（月） 1、晚上打卡多邻国。 2、阅……</summary>
+            
+                <content type="html">&lt;p&gt;写下你觉得今天做成功的事情吧！至少要有5条：&lt;/p&gt;
+&lt;h3 id=&#34;2月5日月&#34;&gt;2月5日（月）&lt;/h3&gt;
+&lt;p&gt;1、晚上打卡多邻国。&lt;/p&gt;
+&lt;p&gt;2、阅读并打卡了《体验引擎》。&lt;/p&gt;
+&lt;p&gt;3、设置好文章定时发送。&lt;/p&gt;
+&lt;p&gt;4、收拾好衣柜，做好分区。&lt;/p&gt;
+&lt;p&gt;5、清理好桌子，把电脑摆放好。&lt;/p&gt;
+&lt;p&gt;6、晚上吃完晚饭认真洗了碗。&lt;/p&gt;
+&lt;p&gt;7、洗了头。&lt;/p&gt;
+&lt;p&gt;8、收拾东西找到以前亲友送的徽章，拍照发给亲友。&lt;/p&gt;
+&lt;p&gt;9、忍住没有冲动消费行李箱。&lt;/p&gt;
+&lt;h3 id=&#34;2月6日火&#34;&gt;2月6日（火）&lt;/h3&gt;
+&lt;p&gt;1、晚上打卡多邻国。&lt;/p&gt;
+&lt;p&gt;2、阅读并打卡了《体验引擎》。&lt;/p&gt;
+&lt;p&gt;3、设置好文章定时发送。&lt;/p&gt;
+&lt;p&gt;4、给妈妈挑了衣服看。&lt;/p&gt;
+&lt;p&gt;5、煮了晚饭。&lt;/p&gt;
+&lt;p&gt;6、协助妈妈完成大扫除。&lt;/p&gt;
+&lt;h3 id=&#34;2月7日水&#34;&gt;2月7日（水）&lt;/h3&gt;
+&lt;p&gt;1、晚上打卡多邻国。&lt;/p&gt;
+&lt;p&gt;2、设置好文章定时发送。&lt;/p&gt;
+&lt;p&gt;3、洗了碗。&lt;/p&gt;
+&lt;p&gt;4、断舍离本子。&lt;/p&gt;
+&lt;p&gt;5、协助妈妈搬了衣柜。&lt;/p&gt;
+&lt;p&gt;6、和弟弟一起玩了马里奥惊奇。&lt;/p&gt;
+&lt;p&gt;7、11点前完成洗漱。&lt;/p&gt;
+&lt;p&gt;8、收拾整理好重要的本子和周边。&lt;/p&gt;
+&lt;h3 id=&#34;2月8日木&#34;&gt;2月8日（木）&lt;/h3&gt;
+&lt;p&gt;1、晚上打卡多邻国。&lt;/p&gt;
+&lt;p&gt;2、阅读并打卡了《体验引擎》。&lt;/p&gt;
+&lt;p&gt;3、搞完一二三楼的卫生（拖地），擦干净沙发和桌子。&lt;/p&gt;
+&lt;p&gt;4、再一次断舍离物品。&lt;/p&gt;
+&lt;p&gt;5、整理好自己房间的东西。&lt;/p&gt;
+&lt;p&gt;6、和弟弟一起玩了马里奥惊奇。&lt;/p&gt;
+&lt;p&gt;7、12点前完成洗漱。&lt;/p&gt;
+&lt;p&gt;8、和亲友聊了一会儿天。&lt;/p&gt;
+&lt;p&gt;9、洗了头。&lt;/p&gt;
+&lt;p&gt;10、亲戚来家里，微笑接待。&lt;/p&gt;
+&lt;h3 id=&#34;2月9日金&#34;&gt;2月9日（金）&lt;/h3&gt;
+&lt;p&gt;1、打卡了多邻国。&lt;/p&gt;
+&lt;p&gt;2、阅读并打卡了《体验引擎》。&lt;/p&gt;
+&lt;p&gt;3、上午帮忙贴好对联挥春，帮忙拜完神。&lt;/p&gt;
+&lt;p&gt;4、和妈妈沟通衣服尺码，准备下单。&lt;/p&gt;
+&lt;p&gt;5、在mys发了尘歌壶摹本材料的帖子。&lt;/p&gt;
+&lt;p&gt;6、12点前完成洗漱。&lt;/p&gt;
+&lt;p&gt;7、在完成的洞天景色里带角色拍了照。&lt;/p&gt;
+&lt;p&gt;8、在淘宝物色好痛包的材料和预设好呈现方式。&lt;/p&gt;
+&lt;h3 id=&#34;2月10日土&#34;&gt;2月10日（土）&lt;/h3&gt;
+&lt;p&gt;1、打卡了多邻国。&lt;/p&gt;
+&lt;p&gt;2、阅读并打卡了《体验引擎》。&lt;/p&gt;
+&lt;p&gt;3、完成1月份的目标复盘。&lt;/p&gt;
+&lt;p&gt;4、整理好这两周的成功日记。&lt;/p&gt;
+&lt;p&gt;5、把w4的周报更新到post，并成功push到仓库上。&lt;/p&gt;
+&lt;p&gt;6、确定好2月份的月度目标。&lt;/p&gt;
+&lt;p&gt;7、按妈妈说的话有空就到楼上烧香。&lt;/p&gt;
+&lt;p&gt;8、须弥宝箱找了2p，并且挖了不少矿。&lt;/p&gt;
+&lt;p&gt;9、把下周要发的文章安排并更换好，可以直接用手机操作。&lt;/p&gt;
+&lt;h3 id=&#34;2月11日日&#34;&gt;2月11日（日）&lt;/h3&gt;
+&lt;p&gt;1、打卡了多邻国。&lt;/p&gt;
+&lt;p&gt;2、阅读并打卡了《体验引擎》。&lt;/p&gt;
+&lt;p&gt;3、洗了头。&lt;/p&gt;
+&lt;p&gt;4、在须弥找了宝箱，备战4.5万叶卡池。&lt;/p&gt;
+&lt;p&gt;5、年初二亲戚来家里，到楼下寒暄。&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E6%88%90%E5%8A%9F%E6%97%A5%E8%AE%B0/" term="成功日记" label="成功日记" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E8%AE%B0%E5%BD%95/" term="记录" label="记录" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
+        <entry>
+            <title type="text">周报24_Q1M1W5 时间分析、年会与春运</title>
+            <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240210_weekly_q1m1w5/" />
+            <id>https://sakatarin.github.io/post/240210_weekly_q1m1w5/</id>
+            <updated>2024-02-18T22:09:07&#43;08:00</updated>
+            <published>2024-02-10T16:05:24&#43;08:00</published>
+            <author>
+                    <name>sakata</name>
+                    <uri>https://sakatarin.github.io/</uri>
+                    <email>asaka0114@163.com</email>
+                    </author>
+            <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights><summary type="html">以下是24-1-29到24-2-4的一周回顾。 （这篇周报是2月18日放完春节假，返深……</summary>
+            
+                <content type="html">&lt;p&gt;以下是&lt;code&gt;24-1-29&lt;/code&gt;到&lt;code&gt;24-2-4&lt;/code&gt;的一周回顾。&lt;/p&gt;
+&lt;p&gt;（这篇周报是2月18日放完春节假，返深上班第一天写的。）&lt;/p&gt;
+&lt;h3 id=&#34;时间分析&#34;&gt;时间分析&lt;/h3&gt;
+&lt;p&gt;2023年时间分析的工程量没有想象中的大，主要是不涉及时间线的横向比较，只是做了一个简单的统计。&lt;/p&gt;
+&lt;p&gt;不过也花了大半天的时间去处理数据和排版。&lt;/p&gt;
+&lt;p&gt;我觉得最重要的一步是确定好结果数据想要表达的内容，不然分析起数据就会变得没有目的，无处下手，在清楚这一点后，基本是一个流程下来处理不同类别的时间数据。&lt;/p&gt;
+&lt;p&gt;深感方法论的重要性，当然，不实践也难以找到方法。&lt;/p&gt;
+&lt;p&gt;在这过程中，也学会了不少excel函数公式，工作中很少接触excel函数，所以这次的分析也当作是在学习excel了，果然你想得到的，excel总有一个快捷方便的路子带你找到。&lt;/p&gt;
+&lt;p&gt;时间分析全图文链接→
+&lt;a href=&#34;https://mp.weixin.qq.com/s/EV-M9piT_1wLWspJ1I6Cyg&#34;&gt;2023 年的 8760 小时&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;年会&#34;&gt;年会&lt;/h3&gt;
+&lt;p&gt;说到年会，本来以为今年只是简单吃个饭，因为公司今年的收益也不太好（表面上是这么说），没抱期待所以远超期待了。&lt;/p&gt;
+&lt;p&gt;不说上午在高层的海景会议厅聚众打掼蛋（一种江浙地区的扑克牌打法？），下午的晚宴安排算是非常用心了，听说我们领导也参与了策划。&lt;/p&gt;
+&lt;p&gt;先是抽签按号码到大桌就座（后面的活动也是这样分桌进行，这一点非常重要，不然就乱成一团了），然后就是一贯的主持人讲话，颁发优秀员工奖，领导讲话，抽奖，吃饭等等。&lt;/p&gt;
+&lt;p&gt;顺序记得不太清了，还有印象的是肚子饿的咕咕叫的时候，董事长在上面讲话。&lt;/p&gt;
+&lt;p&gt;抽奖活动比较有意思，有两轮，第一轮是用易拉罐滚钱，寓意财源滚滚来，人站在长桌一头，另一头摆着纸币方阵，易拉罐滚到多少钱就拿多少钱，每个人3次机会，金额累计。&lt;/p&gt;
+&lt;p&gt;我第一次力气用小了，还没滚到纸币的位置，第二次出乎意料，停在了100元纸钞上，第三次则是太大力了，易拉罐滚了出去。&lt;/p&gt;
+&lt;p&gt;全场最高好像滚到了200多，100以上的也不是很多人，不过有埋伏，后来滚到了100以上包括100元的人到舞台上条燃脂舞了。&lt;/p&gt;
+&lt;p&gt;这一波，是未吃饭就燃脂了。&lt;/p&gt;
+&lt;p&gt;当我以为这就算是年会的压轴活动派钱之外，没想到还有敲金蛋抽奖活动，我敲到了一个复古爆米花机，查了一下，好像就是山姆买99的那一款，等以后换房子了，空间大一点可以试着做些当零食吃。&lt;/p&gt;
+&lt;p&gt;最后，竟然还有发年终奖红包的流程，虽然红包里面只是一张写着金额的纸条，但钱当晚已经打到了银行卡，这是最惊喜的，我们公司竟然还能发年终奖，还是年前发？&lt;/p&gt;
+&lt;p&gt;由部门总监给各个部门发年终奖红包，然后一起合影，也算是比较圆满了。&lt;/p&gt;
+&lt;p&gt;所有流程结束，5点多就开始吃饭，期间少不了各种举杯庆祝，饭吃得差不多，大家准备要走的时候，我们桌上有比较懂礼仪的老师们，我也跟着去敬了大领导那一桌，我们就各回各家了。&lt;/p&gt;
+&lt;p&gt;比较幸运，出门刚好和别的部门同事顺路，就一起坐地铁回去了。&lt;/p&gt;
+&lt;h3 id=&#34;春运&#34;&gt;春运&lt;/h3&gt;
+&lt;p&gt;4号回家，3号抢返深的车票，没抢到，第一时间候补了，晚上收到消息，直达的车票候补成功，还是有座的，也不用操心返程的事情了，开开心心地回家。&lt;/p&gt;
+&lt;p&gt;很幸运地，4号深圳到广州的车票也候补到一个比较合适的时间了，我赶紧把城轨的票给退了，虽然花了一点手续费。&lt;/p&gt;
+&lt;p&gt;4号早上收拾好东西出门，行程时间十分宽裕，到深圳北之后，我先去广场下一层那边坐着等了一会儿，然后发现，帆布袋上的散兵挂件不见了，应该是路上掉了，我发誓，再也不挂东西在包上了。&lt;/p&gt;
+&lt;p&gt;到广州南中转，刚好是午饭时间，去肯德基点了一个汉堡，就去星巴克那边点了杯红茶，坐着玩起了原神，时间很快就过去了，接着就上去三层候车。&lt;/p&gt;
+&lt;p&gt;总的来说，这是一次不急不慢的行程，人也不是非常多，不过还是比平常节假日出行要多一点点。&lt;/p&gt;
+&lt;h3 id=&#34;这周的时间记录ok&#34;&gt;这周的时间记录ok&lt;/h3&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Activity Type&lt;/th&gt;
+&lt;th&gt;Duration&lt;/th&gt;
+&lt;th&gt;Percent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;睡眠&lt;/td&gt;
+&lt;td&gt;48:27&lt;/td&gt;
+&lt;td&gt;28.84&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;其它&lt;/td&gt;
+&lt;td&gt;33:30&lt;/td&gt;
+&lt;td&gt;19.95&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工作&lt;/td&gt;
+&lt;td&gt;24:03&lt;/td&gt;
+&lt;td&gt;14.32&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交通&lt;/td&gt;
+&lt;td&gt;13:41&lt;/td&gt;
+&lt;td&gt;8.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习&lt;/td&gt;
+&lt;td&gt;02:29&lt;/td&gt;
+&lt;td&gt;1.48&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;健康&lt;/td&gt;
+&lt;td&gt;01:20&lt;/td&gt;
+&lt;td&gt;0.80&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;兴趣娱乐&lt;/td&gt;
+&lt;td&gt;00:29&lt;/td&gt;
+&lt;td&gt;0.30&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习 + 工作&lt;/td&gt;
+&lt;td&gt;00:01&lt;/td&gt;
+&lt;td&gt;0.02&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;未记录的时间&lt;/td&gt;
+&lt;td&gt;43:56&lt;/td&gt;
+&lt;td&gt;26.15&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总共&lt;/td&gt;
+&lt;td&gt;167:59&lt;/td&gt;
+&lt;td&gt;100.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;睡眠时间减少了5个小时，临近放假，开始放纵自己了。&lt;/p&gt;
+&lt;p&gt;其它时间减少了3小时，年会那一整天都没怎么有空干别的事情，周末两天，一天年会，一天在回家路上。&lt;/p&gt;
+&lt;p&gt;工作时间增加了2小时，因为把年会时间也算进去了。&lt;/p&gt;
+&lt;p&gt;交通时间增加了10小时，春节回家，在路上。&lt;/p&gt;
+&lt;p&gt;学习时间基本稳定，多邻国+阅读打卡。&lt;/p&gt;
+&lt;p&gt;健康时间减少20分钟，除开偷懒没练八段锦，这周也没有打扫卫生，想着返深之后再大扫除。&lt;/p&gt;
+&lt;p&gt;兴趣娱乐减少了6个小时，没有看电影和练琴了。&lt;/p&gt;
+&lt;h3 id=&#34;这周看到的好玩意&#34;&gt;这周看到的好玩意&lt;/h3&gt;
+&lt;p&gt;不记得了&lt;/p&gt;
+</content>
+            
+            
+            
+            
+            
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/categories/%E5%91%A8%E6%8A%A5/" term="周报" label="周报" />
+                            
+                        
+                    
+                
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://sakatarin.github.io/tags/%E6%80%BB%E7%BB%93/" term="总结" label="总结" />
+                            
+                        
+                    
+                
+            
+        </entry>
+    
         <entry>
             <title type="text">成功日记#37 240129-240204</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240210_success_diary_37/" />
