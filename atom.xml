@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2024-04-15T23:07:06&#43;08:00</updated>
+    <updated>2024-04-16T22:44:44&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
         <entry>
-            <title type="text">周报24_Q2M4W1 带饭、100%与谷子</title>
+            <title type="text">周报24_Q2M4W2 带饭、100%与谷子</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240415_weekly_q2m4w2/" />
             <id>https://sakatarin.github.io/post/240415_weekly_q2m4w2/</id>
-            <updated>2024-04-15T22:58:43&#43;08:00</updated>
+            <updated>2024-04-16T22:43:07&#43;08:00</updated>
             <published>2024-04-15T22:54:15&#43;08:00</published>
             <author>
                     <name>sakata</name>
@@ -6045,7 +6045,7 @@
             <title type="text">周报24_Q1M1W1 新年计划、旧锅新用与熬夜</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/240120_weekly_q1m1w1/" />
             <id>https://sakatarin.github.io/post/240120_weekly_q1m1w1/</id>
-            <updated>2024-01-20T22:27:37&#43;08:00</updated>
+            <updated>2024-04-16T22:44:00&#43;08:00</updated>
             <published>2024-01-20T22:06:16&#43;08:00</published>
             <author>
                     <name>sakata</name>
@@ -6093,17 +6093,67 @@
 &lt;h3 id=&#34;熬夜&#34;&gt;熬夜&lt;/h3&gt;
 &lt;p&gt;居然是从熬夜开始的新的一年！君子慎独啊！希望下周能够调整过来。&lt;/p&gt;
 &lt;h3 id=&#34;这周的时间记录&#34;&gt;这周的时间记录&lt;/h3&gt;
-&lt;p&gt;Activity Type	|Duration	|Percent
-其它	|51:22	|30.58
-睡眠|	49:00|	29.17
-工作	|13:20	|7.94
-学习	|03:03	|1.82
-兴趣娱乐	|02:55	|1.74
-交通	|02:44	|1.63
-健康	|02:21	|1.40
-家庭|	01:07	|0.66
-未记录的时间	|42:05|	25.05
-总共	|167:59	|100.00&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Activity Type&lt;/th&gt;
+&lt;th&gt;Duration&lt;/th&gt;
+&lt;th&gt;Percent&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;其它&lt;/td&gt;
+&lt;td&gt;51:22&lt;/td&gt;
+&lt;td&gt;30.58&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;睡眠&lt;/td&gt;
+&lt;td&gt;49:00&lt;/td&gt;
+&lt;td&gt;29.17&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;工作&lt;/td&gt;
+&lt;td&gt;13:20&lt;/td&gt;
+&lt;td&gt;7.94&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;学习&lt;/td&gt;
+&lt;td&gt;03:03&lt;/td&gt;
+&lt;td&gt;1.82&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;兴趣娱乐&lt;/td&gt;
+&lt;td&gt;02:55&lt;/td&gt;
+&lt;td&gt;1.74&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;交通&lt;/td&gt;
+&lt;td&gt;02:44&lt;/td&gt;
+&lt;td&gt;1.63&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;健康&lt;/td&gt;
+&lt;td&gt;02:21&lt;/td&gt;
+&lt;td&gt;1.40&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;家庭&lt;/td&gt;
+&lt;td&gt;01:07&lt;/td&gt;
+&lt;td&gt;0.66&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;未记录的时间&lt;/td&gt;
+&lt;td&gt;42:05&lt;/td&gt;
+&lt;td&gt;25.05&lt;/td&gt;
+&lt;/tr&gt;
+&lt;tr&gt;
+&lt;td&gt;总共&lt;/td&gt;
+&lt;td&gt;167:59&lt;/td&gt;
+&lt;td&gt;100.00&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;这个其它时间高达51小时，恍惚间还以为是睡眠时间，但仔细发现不是，不过这也是今年第一次其它时间登顶，比睡眠时间还要高。&lt;/p&gt;
 &lt;p&gt;大致浏览一下其它类别下面的事件，这周多了“周报”和“总结”，回忆一下，这周在整理物品断舍离和制定2024年计划上都花了不少时间。&lt;/p&gt;
 &lt;p&gt;加上这周有三天都是休息的，所以b站的使用时间也是增加了。&lt;/p&gt;
