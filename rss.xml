@@ -23,10 +23,245 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Mon, 25 Nov 2024 21:57:49 &#43;0800</lastBuildDate>
+        <lastBuildDate>Fri, 29 Nov 2024 23:26:55 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="https://sakatarin.github.io/rss.xml" />
         
+        
+            <item>
+                <title>回答独立博客自省问卷15题</title>
+                <link>https://sakatarin.github.io/post/241129_15_questions_blog/</link>
+                <guid isPermaLink="true">https://sakatarin.github.io/post/241129_15_questions_blog/</guid>
+                <pubDate>Fri, 29 Nov 2024 23:13:18 &#43;0800</pubDate>
+                
+                    <author>asaka0114@163.com (sakata)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;出处：&lt;a href=&#34;https://yayu.net/4626.html&#34;&gt;独立博客自省问卷15题&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;1你的博客更新频率是多少&#34;&gt;1、你的博客更新频率是多少？&lt;/h3&gt;
+&lt;p&gt;A.每周更新&lt;/p&gt;
+&lt;p&gt;B.一周数篇&lt;/p&gt;
+&lt;p&gt;C.一月1-2篇&lt;/p&gt;
+&lt;p&gt;D.几个月一篇&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A（偶尔取决于网络情况……）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;2你的博客上次更新是什么时候&#34;&gt;2、你的博客上次更新是什么时候？&lt;/h3&gt;
+&lt;p&gt;A.本周&lt;/p&gt;
+&lt;p&gt;B.上周&lt;/p&gt;
+&lt;p&gt;C.上个月&lt;/p&gt;
+&lt;p&gt;D.上季度&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A（别小瞧周报的力量！）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3你的博客文章是原创的吗&#34;&gt;3、你的博客文章是原创的吗？&lt;/h3&gt;
+&lt;p&gt;A.坚持原创&lt;/p&gt;
+&lt;p&gt;B.部分借鉴&lt;/p&gt;
+&lt;p&gt;C.AI 帮我写的&lt;/p&gt;
+&lt;p&gt;D.搬运别人的，而且不署名&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A（虽然读书笔记是原文摘抄orz）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;4你觉得自己的文章对他人有帮助吗&#34;&gt;4、你觉得自己的文章对他人有帮助吗？&lt;/h3&gt;
+&lt;p&gt;A.旨在对他人有启示&lt;/p&gt;
+&lt;p&gt;B.多少有点意义&lt;/p&gt;
+&lt;p&gt;C.每日每周流水账&lt;/p&gt;
+&lt;p&gt;D.自我陶醉就好，管他呢&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;BC（周报里已加入最近看到的好玩意部分！）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;5你上次换博客主题程序是什么时候&#34;&gt;5、你上次换博客主题/程序是什么时候？&lt;/h3&gt;
+&lt;p&gt;A.上周&lt;/p&gt;
+&lt;p&gt;B.上个月&lt;/p&gt;
+&lt;p&gt;C.去年&lt;/p&gt;
+&lt;p&gt;D.凭良心说，我多年都是一个主题&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D（曾想换过，但又回到最初的起点~）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;6你上一次捣腾博客主题代码是什么时候&#34;&gt;6、你上一次捣腾博客主题代码是什么时候？&lt;/h3&gt;
+&lt;p&gt;A.昨天，撸代码到凌晨&lt;/p&gt;
+&lt;p&gt;B.每周必捣腾&lt;/p&gt;
+&lt;p&gt;C.每月有那么一次&lt;/p&gt;
+&lt;p&gt;D.一年有那么一次&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E（去年倒腾完就没碰过。）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;7你会对博客主题进行二次开发&#34;&gt;7、你会对博客主题进行二次开发？&lt;/h3&gt;
+&lt;p&gt;A.直接配置使用，省心不折腾&lt;/p&gt;
+&lt;p&gt;B.时不时自己改改，搞点新花样，换图片，换字体，爽&lt;/p&gt;
+&lt;p&gt;C.删除主题作者版权信息，改改样式，然后自我感觉良好&lt;/p&gt;
+&lt;p&gt;D.改得面目全非，但保留原作者版权信息或注明&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;A（重点在更新内容w）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;8你多久打开自己博客自我陶醉一次&#34;&gt;8、你多久打开自己博客自我陶醉一次？&lt;/h3&gt;
+&lt;p&gt;A.每天数次&lt;/p&gt;
+&lt;p&gt;B.每周一次&lt;/p&gt;
+&lt;p&gt;C.看心情&lt;/p&gt;
+&lt;p&gt;D.一般都是照镜子，不看博客&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;B（确保已经push成功，再到分类里看着齐刷刷的标题脑内过一遍过去的日子~）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;9你近期对自己博客域名什么感受&#34;&gt;9、你近期对自己博客域名什么感受？&lt;/h3&gt;
+&lt;p&gt;A.想搞到一个 .COM 的域名&lt;/p&gt;
+&lt;p&gt;B.如果域名能再短几个字符就更好了&lt;/p&gt;
+&lt;p&gt;C.今年才换双拼域名了，明年再看看&lt;/p&gt;
+&lt;p&gt;D.目前挺好，没想法&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D（除了会显示404，目前已满足使用需求。）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;10你每天都会看网站的流量统计吗&#34;&gt;10、你每天都会看网站的流量统计吗？&lt;/h3&gt;
+&lt;p&gt;A.每天看几次，今天又多了100PV&lt;/p&gt;
+&lt;p&gt;B.每周回顾，看看流量趋势&lt;/p&gt;
+&lt;p&gt;C.记得就看看&lt;/p&gt;
+&lt;p&gt;D.没有搞流量统计，都是浮云&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D（没有这个需求。）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;11你通过博客的广告赚到钱了吗&#34;&gt;11、你通过博客的广告赚到钱了吗？&lt;/h3&gt;
+&lt;p&gt;A.有，能覆盖建站费用&lt;/p&gt;
+&lt;p&gt;B.有，但付出大于收入&lt;/p&gt;
+&lt;p&gt;C.没考虑通过博客流量赚钱&lt;/p&gt;
+&lt;p&gt;D.拒绝广告，保证阅读体验&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D（到大流量平台搞钱，冲！）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;12你去浏览别人的博客网站主要为什么&#34;&gt;12、你去浏览别人的博客/网站主要为什么？&lt;/h3&gt;
+&lt;p&gt;A.学习别人分享的知识&lt;/p&gt;
+&lt;p&gt;B.搬运别人的内容&lt;/p&gt;
+&lt;p&gt;C.看看别人怎么装修博客，自己也抄一下，感觉都比自己的好&lt;/p&gt;
+&lt;p&gt;D.不爱看别人博客，自己爱写啥写啥&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;E（打发时间，看见另一种生活。）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;13看到别人分享了一篇文章你打开第一反应是什么&#34;&gt;13、看到别人分享了一篇文章，你打开第一反应是什么？&lt;/h3&gt;
+&lt;p&gt;A.哇，这域名真不错，怎么我没想到&lt;/p&gt;
+&lt;p&gt;B.哇，这网站速度真快，图片延迟加载丝滑&lt;/p&gt;
+&lt;p&gt;C.哇，这程序/主题不错，我也要抄一抄/留言问问哪里搞的&lt;/p&gt;
+&lt;p&gt;D.看看文章内容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D（看看内容0.0）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;14你觉得博客哪方面更重要&#34;&gt;14、你觉得博客哪方面更重要？&lt;/h3&gt;
+&lt;p&gt;A.域名&lt;/p&gt;
+&lt;p&gt;B.服务器&lt;/p&gt;
+&lt;p&gt;C.主题&lt;/p&gt;
+&lt;p&gt;D.内容&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;D（内容！）&lt;/strong&gt;&lt;/p&gt;
+&lt;h3 id=&#34;15近期通过写博客有哪些新收获&#34;&gt;15、近期通过写博客有哪些新收获？&lt;/h3&gt;
+&lt;p&gt;A.知识面有拓展&lt;/p&gt;
+&lt;p&gt;B.认识了新朋友&lt;/p&gt;
+&lt;p&gt;C.写作水平提升&lt;/p&gt;
+&lt;p&gt;D.通过知识变现&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;CE（获得内心的平静。）&lt;/strong&gt;&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+                                
+                            
+                        
+                    
+                
+            </item>
+        
+            <item>
+                <title>作为博客作者，我回答了这9个问题！</title>
+                <link>https://sakatarin.github.io/post/241129_9_questions_blogger/</link>
+                <guid isPermaLink="true">https://sakatarin.github.io/post/241129_9_questions_blogger/</guid>
+                <pubDate>Fri, 29 Nov 2024 23:12:53 &#43;0800</pubDate>
+                
+                    <author>asaka0114@163.com (sakata)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;p&gt;和平常一样，周一写完周报，我在网上浏览各种信息。&lt;/p&gt;
+&lt;p&gt;突然想起好长时间没看pseudoyu的博客，于是点开了链接，发现了一篇特别的内容：&lt;a href=&#34;https://www.pseudoyu.com/zh/2024/10/23/weekly_review_202401023/&#34;&gt;周报 #75 - 回答 Dayu 关于独立博客的 9 个问题&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;顺着里面的链接，跳转到发起问卷活动的博文：&lt;a href=&#34;https://anotherdayu.com/2024/5962/&#34;&gt;博客作者呀，我想采访你这 9 个问题！&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;虽然我的博客在自己眼里是一个孤岛，但想着从去年春天到现在，也已经坚持更新了一年多，即将迎来第三个春天，不妨做一些小小的改变！&lt;/p&gt;
+&lt;h3 id=&#34;1-简单介绍下自己或者你的博客&#34;&gt;1. 简单介绍下自己或者你的博客？&lt;/h3&gt;
+&lt;p&gt;一个人，毕业之后参加工作已经有4年多，而且工作内容和自己专业毫不相关。&lt;/p&gt;
+&lt;p&gt;SAKATA是日语“坂田”的罗马音，取自“坂田银时”。&lt;/p&gt;
+&lt;p&gt;最初是高一时我在动漫社里起的昵称，后来和网友们也是这么称呼的。&lt;/p&gt;
+&lt;p&gt;工作后，和同事们自我介绍，我随口就说，“我叫XXX，大家可以叫我坂田。”&lt;/p&gt;
+&lt;p&gt;很巧的是，深圳有个地名就是坂田，还是我来深圳之后才知道！所以，当大家问起是哪个bantian，我就说，是那个坂田站的坂田。&lt;/p&gt;
+&lt;p&gt;RIN是我的姓的谐音，所以就把 SAKATA 和 RIN 组合起来，成为博客的名字。&lt;/p&gt;
+&lt;p&gt;其实博客原本是叫“sakata的万事屋”，也是取自《银魂》，但后来觉得并没有“万事屋”的样子，内容都是自己的碎碎念，便改成了更有自己色彩的SAKATA RIN。&lt;/p&gt;
+&lt;h3 id=&#34;2-什么契机让你开始写博客&#34;&gt;2. 什么契机让你开始写博客？&lt;/h3&gt;
+&lt;p&gt;在豆瓣电影《V字仇杀队》条目下写的一篇影评被打回了，收到邮件的时候还没仔细看，直到后来得知这部电影条目消失了，才感到一股莫名的恐惧。&lt;/p&gt;
+&lt;p&gt;我不想就这样消失，于是这个博客就诞生了。&lt;/p&gt;
+&lt;p&gt;最初目的是“逃出规则，在一个无人知晓的地方畅所欲言”。&lt;/p&gt;
+&lt;p&gt;原本也想作为自己的学习记录之所，但随着一篇篇周报的更新，已经完全变成了“周记本”般的存在。&lt;/p&gt;
+&lt;p&gt;而更新周报的契机可以阅读我2023年第一篇周报：
+&lt;a href=&#34;https://sakatarin.github.io/post/230410_weekly_q2m4w2/&#34;&gt;周报_Q2M4W2 清明、马力欧与博客&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;3-你是如何完成创作的&#34;&gt;3. 你是如何完成创作的？&lt;/h3&gt;
+&lt;p&gt;2023年春天开始，工作稳定下来，上班和腾讯在线文档打交道比较多，所以在线工具算是一个桥梁。&lt;/p&gt;
+&lt;p&gt;上班时写完的内容，回家在自己的电脑上更新，然后git一下（以防忘记指令顺序，每次还专门打开记事本的memo×），虽然偶尔会连接不上，更新失败，但没关系，等下周再试试，很随缘。&lt;/p&gt;
+&lt;p&gt;每周一早上，分别复制上一周的周报和成功日记的文档，然后打开微信置顶的只有我一个人的备忘群。&lt;/p&gt;
+&lt;p&gt;成功日记、看到的有趣的内容，是平时随手发到备忘群里，到写周报的时候整理。&lt;/p&gt;
+&lt;p&gt;而时间统计工具用的是aTimeLogger，也会导出数据传到电脑上，写进周报。&lt;/p&gt;
+&lt;p&gt;关于时间统计可以参考：&lt;a href=&#34;https://sakatarin.github.io/post/230425_weekly_q2m4w4/&#34;&gt;周报_Q2M4W4 翻译、调休与时间统计&lt;/a&gt;
+、&lt;a href=&#34;https://sakatarin.github.io/post/240210_weekly_q1m1w5/&#34;&gt;周报24_Q1M1W5 时间分析、年会与春运&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;至于读书笔记，说是笔记，实则是摘抄。一开始用微信读书，划线的句子能统一导出文本，可是后来它限制导入书籍的次数。于是换成了MIUI自带的阅读，也能实现我的需求。&lt;/p&gt;
+&lt;p&gt;日常的一点一滴记录最终汇聚于此，一本便携的人生之书。&lt;/p&gt;
+&lt;h3 id=&#34;4-运营博客的过程中是否有失去过动力如果有是为什么恢复的如果没有请问您又是如何保持创作的激情&#34;&gt;4. 运营博客的过程中是否有失去过动力？如果有，是为什么恢复的？如果没有，请问您又是如何保持创作的激情？&lt;/h3&gt;
+&lt;p&gt;如果保持更新也算运营的话，也是有过断更的想法。&lt;/p&gt;
+&lt;p&gt;特别长假期过后，遇上工作比较多的一周，如果没有抽空写周报的话，看起来是一期周报没有更新，拖着拖着很快就有两三周了。&lt;/p&gt;
+&lt;p&gt;点开某几期周报，也会在开头看到我的“忏悔”，比如“这是X月X号才写的，拖了那么久，下次一定及时写”。&lt;/p&gt;
+&lt;p&gt;也不知道哪里来的劲儿，虽然偶有拖延，但也咬咬牙坚持下来了。&lt;/p&gt;
+&lt;p&gt;主要是找到了自己拖延的卡点：会想写出一篇完美（字多）的周报。&lt;/p&gt;
+&lt;p&gt;但是，当我回头看自己刚开始写的周报，有些只有几百字，不像现在的，一千多两千字。&lt;/p&gt;
+&lt;p&gt;还是那句话，完成比完美重要。&lt;/p&gt;
+&lt;p&gt;当我不想写周报的时候，我就对自己说：十几个字也行，写了就行。（虽然还是会越写越多，但是没啥心理负担了！)&lt;/p&gt;
+&lt;p&gt;虽然目前博客99%的内容都是周报，也想在未来在写周报之余，输出一些比较成型的内容。&lt;/p&gt;
+&lt;h3 id=&#34;5-如何搭建博客以及运营博客每年需要投入的资金&#34;&gt;5. 如何搭建博客，以及运营博客每年需要投入的资金？&lt;/h3&gt;
+&lt;p&gt;网上找的Hugo教程，之前有考虑过wordpress，也试过hexo，但是考虑到前者被评价臃肿，后者部署失败，所以最后选择了hugo。&lt;/p&gt;
+&lt;p&gt;为了这个还特意看了git教程。虽然后来只是输入指令就完事儿。&lt;/p&gt;
+&lt;p&gt;由于自己的技术力还不够，也不知道这个孤岛会不会因为自己的操作遗失了，所以没有申请域名，而且也没有评论服务和上传图片（图床？）的部分，因此投入资金是0。&lt;/p&gt;
+&lt;p&gt;评论服务和上传图片之前有考虑过，但是生活中还有比这优先级更高的事，所以一直没有弄。&lt;/p&gt;
+&lt;p&gt;坚持每周更新周报已经很棒了，如此安慰自己。&lt;/p&gt;
+&lt;h3 id=&#34;6-推荐-1-篇你博客中的文章并推荐一个你喜欢读的博客聊聊原因&#34;&gt;6. 推荐 1 篇你博客中的文章，并推荐一个你喜欢读的博客，聊聊原因。&lt;/h3&gt;
+&lt;p&gt;博客里满满的周报，都是自己的日常琐事，所以推荐一篇博客中的文章给我的感觉，就像把周记本拿给朋友，说：“你看，我这周过得很有趣。”&lt;/p&gt;
+&lt;p&gt;那我就推荐最新一篇周报吧：&lt;a href=&#34;https://sakatarin.github.io/post/241125_weekly_q4m11w3/&#34;&gt;周报24_Q4M11W3 原道、下雨天与邦邦&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;周报除外的话，最推荐的一篇是：&lt;a href=&#34;https://sakatarin.github.io/post/230524_reading_note_ein_hund_namens_money/&#34;&gt;读书笔记-小狗钱钱&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;说到我喜欢读的博客，有点惭愧，并没有养成定期浏览博客的习惯。上班偶尔会用&lt;a href=&#34;https://www.travellings.cn/go.html&#34;&gt;travellings&lt;/a&gt;看看博客，一般都是直奔“about”页面，感兴趣了再看文章。&lt;/p&gt;
+&lt;p&gt;我比较喜欢看日常、文学类的博客，而传送找到的博客多数以技术类为主，暂时还不是我感兴趣的领域。&lt;/p&gt;
+&lt;p&gt;所以，还是推荐启发我更新周报的blogger：&lt;a href=&#34;https://www.pseudoyu.com/zh&#34;&gt;pseudoyu&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;再补充一个启发我开始做时间统计的blogger：&lt;a href=&#34;https://blog.tujunjie.com/&#34;&gt;涂俊杰JunJie - 时间记录践行者&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;7-推荐-1-个近期喜欢的事物例如书籍电影音乐工具软件&#34;&gt;7. 推荐 1 个近期喜欢的事物？（例如书籍、电影、音乐、工具、软件。）&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://book.douban.com/series/36002&#34;&gt;《那不勒斯四部曲》&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;已经读到第三部《离开的留下的》~&lt;/p&gt;
+&lt;h3 id=&#34;8-想做还没有做的事或想尝试还没有尝试的主题&#34;&gt;8. 想做还没有做的事，或想尝试还没有尝试的主题？&lt;/h3&gt;
+&lt;p&gt;给博客搞一个评论模块（分享照片这块儿已放弃）；&lt;/p&gt;
+&lt;p&gt;等周报更新到100期的时候新增友链模块；&lt;/p&gt;
+&lt;p&gt;向现实朋友们公开博客的存在（意愿45%）；&lt;/p&gt;
+&lt;p&gt;给博客搞一个全部字数统计功能；&lt;/p&gt;
+&lt;p&gt;提高技术力……&lt;/p&gt;
+&lt;h3 id=&#34;9-写到这里闭上你的眼睛深呼吸几分钟或是出去溜达一圈然后回来写任何你想写的东西&#34;&gt;9. 写到这里，闭上你的眼睛，深呼吸几分钟，或是出去溜达一圈，然后回来写任何你想写的东西。&lt;/h3&gt;
+&lt;p&gt;这一周的天气真的好好！&lt;/p&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/categories/%E6%97%A5%E5%B8%B8/">日常</category>
+                                
+                            
+                        
+                    
+                        
+                            
+                                
+                                
+                                
+                                    <category domain="https://sakatarin.github.io/tags/%E5%8D%9A%E5%AE%A2/">博客</category>
+                                
+                            
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>周报24_Q4M11W3 原道、下雨天与邦邦</title>
