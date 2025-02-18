@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">SAKATA RIN</title>
     <subtitle type="html">一个记录学习与成长的个人博客</subtitle>
-    <updated>2025-02-18T22:39:05&#43;08:00</updated>
+    <updated>2025-02-18T22:41:40&#43;08:00</updated>
     <id>https://sakatarin.github.io/</id>
     <link rel="alternate" type="text/html" href="https://sakatarin.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://sakatarin.github.io/atom.xml" />
@@ -17,10 +17,10 @@
     <rights>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</rights>
     <generator uri="https://gohugo.io/" version="0.88.1">Hugo</generator>
         <entry>
-            <title type="text">周报25_Q1M2W2 DeepSeek、扫墓、清理相册</title>
+            <title type="text">周报25_Q1M2W2 DeepSeek、扫墓与清理相册</title>
             <link rel="alternate" type="text/html" href="https://sakatarin.github.io/post/250218_weekly_q1m2w2/" />
             <id>https://sakatarin.github.io/post/250218_weekly_q1m2w2/</id>
-            <updated>2025-02-18T22:38:08&#43;08:00</updated>
+            <updated>2025-02-18T22:41:20&#43;08:00</updated>
             <published>2025-02-18T22:34:28&#43;08:00</published>
             <author>
                     <name>sakata</name>
